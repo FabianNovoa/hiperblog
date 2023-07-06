@@ -3,4 +3,6 @@ lola
 aumento de texto
 ol
 ola
+caminar
+
 en camara parece alto
