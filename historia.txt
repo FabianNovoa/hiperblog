@@ -1,4 +1,5 @@
 Hola mundo tengo 33
 lola
+aumento de texto
 
 en camara parece alto
