@@ -3,5 +3,6 @@ lola
 aumento de texto
 ol
 ola
+mala
 como
 en camara parece alto
